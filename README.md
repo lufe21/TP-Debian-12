@@ -1,4 +1,4 @@
-# TP-Debian-12
+# TP-Debian-12 Grupo 8
 
 * Lucas Hudson
 * Felipe Alborch
